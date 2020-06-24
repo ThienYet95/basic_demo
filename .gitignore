@@ -3,7 +3,6 @@
 .gradles
 /build/
 /output
-/driver
 
 # Ignore Gradle GUI gobiz.config
 gradle-app.setting
